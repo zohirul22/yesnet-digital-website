@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: -170px;
+
+}
+
+.single-card{
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: rgb(231, 222, 222);
+    padding: 50px 30px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+.single-card img{
+    margin-right: 50px;
+}
+.single-card span{
+    display: block;
+}

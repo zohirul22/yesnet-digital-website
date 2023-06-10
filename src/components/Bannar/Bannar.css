@@ -1,20 +1,19 @@
 .bannar {
     background-image: url('../../img/bannar/banner.jpg');
-    background-size: 100%;
+    background-size: 113%;
     background-position: center;
     background-repeat: no-repeat;
-    padding: 100px 50px;
+    padding-bottom: 200px;
+    padding-top: 150px;
+    padding-left: 100px;
 
-}
-
-.bannar-padding {
-  
 }
 
 .bannar-title h2 {
     font-size: 80px;
     color: #fff;
 }
+
 .bannar-title P {
     width: 500px;
     font-size: 20px;
@@ -30,7 +29,7 @@
 
 
 .header-btn2 button {
-    
+
     background-color: #3FADEF;
     padding: 10px 20px;
     color: #fff;
