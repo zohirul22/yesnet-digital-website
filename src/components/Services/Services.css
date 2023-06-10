@@ -1,38 +1,38 @@
-.popular {
-    background-color: #101010;
-    height: 400px;
-    width: 100%;
-}
 
-.popular-title {
+.services{
+
+    margin-top: 300px;
+
+    
+}
+.services-title{
     font-size: 50px;
     text-transform: uppercase;
     text-align: center;
-    color: #fff;
-    padding: 100px 0px;
+    color: #141313;
+ 
 }
 
-.course{
+
+.img-box img{
+    width: 100%;
+}
+.service-padding{
     display: flex;
-  
-    justify-content: space-between;
+    gap: 50px;
     align-items: center;
-    padding: 0px 50px;
-  gap: 10px;
-}
+    margin: 10px 50px;
 
-.single-course{
+}
+.single-service{
     position: relative;
     border-radius: 15px;
     overflow: hidden;
- 
     margin: 0 8px;
     width: 100%;
     height: auto;
 }
-
-
-.blue-area{
+.blue-box{
     background-color: rgba(24, 123, 200, 90%);
     padding: 17px 30px;
     position: absolute;
@@ -41,4 +41,5 @@
     right: 0;
     text-align: center;
     color: #fff;
+    font-size: 25px;
 }
