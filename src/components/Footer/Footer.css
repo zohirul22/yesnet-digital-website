@@ -1,0 +1,45 @@
+.footer-padding{
+    background-color: black;
+    color: #fff;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    color: #fff;
+}
+
+.footer-logo img {
+    color: black;
+}
+
+.footer-right h2 {
+    padding-top: 40px;
+}
+
+.footer-right ul li {
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+
+.footer-right ul li a {
+    font-size: 20px;
+    color: gainsboro;
+    text-decoration: none;
+
+}
+
+.footer-end{
+    text-align: center;
+    margin-top: 50px;
+}
+.footer-end .part{
+    border-top: 1px solid rgb(73, 72, 72);
+    border-bottom: 1px solid rgb(70, 69, 69);
+}
+
+.copy{
+    text-align: center;
+}
