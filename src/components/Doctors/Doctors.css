@@ -1,0 +1,99 @@
+.doctors-padding {
+    margin-top: 50px;
+}
+
+.doctor-title {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+
+
+.doctor {
+    display: flex;
+    padding: 20px 50px;
+    gap: 50px;
+    margin-bottom: -200px;
+
+
+
+}
+
+.single-doctor img {
+    width: 380px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.book-btn {
+    padding: 10px 30px;
+    background-color: #3FADEF;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.book-btn:hover {
+    background-color: #1A74E2;
+}
+
+.upcoming {
+    background-color: #1A74E2;
+    color: #fff;
+    padding-top: 100px;
+}
+
+.upcoming-title {
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.upcoming-title h2 {
+    font-size: 50px;
+    text-transform: uppercase;
+
+}
+.upcoming-title h4 {
+    padding: 50px;
+    text-transform: uppercase;
+
+}
+
+h4 {
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.upcoming-title {
+    text-align: center;
+    padding: 100px 0px;
+}
+
+.book-data-total {
+    margin-left: 100px;
+}
+
+.book-date {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+
+.book-border {
+    border-bottom: 1px solid #fff;
+    width: 40%;
+}
+
+.book-date h2 {
+    font-size: 50px;
+
+}
+
+.doctor-details{
+    margin: 120px 80px;
+    font-size: 20px;
+}
